@@ -1,0 +1,5 @@
+tftpd server written in python
+it is nat aware (the return flow was initiated by the same port the initial request was made)
+this is not rfc compliant but definitelivy works !!
+
+RMZ
